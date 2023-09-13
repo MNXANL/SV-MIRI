@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/misham/MIRI/SV/3D/imebra_5_2_1_1/CMakeFiles/GTest"
+		},
+		{
+			"file" : "/home/misham/MIRI/SV/3D/imebra_5_2_1_1/CMakeFiles/GTest.rule"
+		},
+		{
+			"file" : "/home/misham/MIRI/SV/3D/imebra_5_2_1_1/CMakeFiles/GTest-complete.rule"
+		},
+		{
+			"file" : "/home/misham/MIRI/SV/3D/imebra_5_2_1_1/gtest/src/GTest-stamp/GTest-install.rule"
+		},
+		{
+			"file" : "/home/misham/MIRI/SV/3D/imebra_5_2_1_1/gtest/src/GTest-stamp/GTest-mkdir.rule"
+		},
+		{
+			"file" : "/home/misham/MIRI/SV/3D/imebra_5_2_1_1/gtest/src/GTest-stamp/GTest-download.rule"
+		},
+		{
+			"file" : "/home/misham/MIRI/SV/3D/imebra_5_2_1_1/gtest/src/GTest-stamp/GTest-update.rule"
+		},
+		{
+			"file" : "/home/misham/MIRI/SV/3D/imebra_5_2_1_1/gtest/src/GTest-stamp/GTest-patch.rule"
+		},
+		{
+			"file" : "/home/misham/MIRI/SV/3D/imebra_5_2_1_1/gtest/src/GTest-stamp/GTest-configure.rule"
+		},
+		{
+			"file" : "/home/misham/MIRI/SV/3D/imebra_5_2_1_1/gtest/src/GTest-stamp/GTest-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"GTest"
+		],
+		"name" : "GTest"
+	}
+}

@@ -1,0 +1,16 @@
+/home/misham/MIRI/SV/3D/imebra_5_2_1_1/CMakeFiles/install/strip.dir
+/home/misham/MIRI/SV/3D/imebra_5_2_1_1/CMakeFiles/rebuild_cache.dir
+/home/misham/MIRI/SV/3D/imebra_5_2_1_1/CMakeFiles/edit_cache.dir
+/home/misham/MIRI/SV/3D/imebra_5_2_1_1/CMakeFiles/package_source.dir
+/home/misham/MIRI/SV/3D/imebra_5_2_1_1/CMakeFiles/package.dir
+/home/misham/MIRI/SV/3D/imebra_5_2_1_1/CMakeFiles/list_install_components.dir
+/home/misham/MIRI/SV/3D/imebra_5_2_1_1/CMakeFiles/GTest.dir
+/home/misham/MIRI/SV/3D/imebra_5_2_1_1/CMakeFiles/dicomDirItems.dir
+/home/misham/MIRI/SV/3D/imebra_5_2_1_1/CMakeFiles/install/local.dir
+/home/misham/MIRI/SV/3D/imebra_5_2_1_1/CMakeFiles/test.dir
+/home/misham/MIRI/SV/3D/imebra_5_2_1_1/CMakeFiles/imebra.dir
+/home/misham/MIRI/SV/3D/imebra_5_2_1_1/CMakeFiles/ImebraTests.dir
+/home/misham/MIRI/SV/3D/imebra_5_2_1_1/CMakeFiles/install.dir
+/home/misham/MIRI/SV/3D/imebra_5_2_1_1/CMakeFiles/scpExample.dir
+/home/misham/MIRI/SV/3D/imebra_5_2_1_1/CMakeFiles/dicom2jpeg.dir
+/home/misham/MIRI/SV/3D/imebra_5_2_1_1/CMakeFiles/changeTransferSyntax.dir
